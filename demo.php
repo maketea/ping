@@ -1,7 +1,8 @@
 <?php
 /**
  * Blog Ping
- * @author https://github.com/maketea
+ * @author     Maketea
+ * @link       https://github.com/maketea
  */
 require ("IXR_Library.php");
 
