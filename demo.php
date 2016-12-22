@@ -1,4 +1,8 @@
 <?php
+/**
+ * Blog Ping
+ * @author https://github.com/maketea
+ */
 require ("IXR_Library.php");
 
 function xmlRpcPing($url, $title, $urlIndex, $url_key, $rss)
